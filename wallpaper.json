@@ -343,11 +343,35 @@
         "thumbUrl": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm57_thumb.jpg",
         "name": "dnm57"
         },
-	    {
-        "author": "zwylde",
+		{
+		"author": "zwylde",
         "url": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm58.jpg",
         "thumbUrl": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm58_thumb.jpg",
         "name": "dnm58"
+        },
+		{
+		"author": "zwylde",
+        "url": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm59.jpg",
+        "thumbUrl": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm59_thumb.jpg",
+        "name": "dnm59"
+        },
+		{
+		"author": "zwylde",
+        "url": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm60.jpg",
+        "thumbUrl": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm60_thumb.jpg",
+        "name": "dnm60"
+        },
+		{
+		"author": "zwylde",
+        "url": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm61.jpg",
+        "thumbUrl": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm61_thumb.jpg",
+        "name": "dnm61"
+        },
+	    {
+        "author": "zwylde",
+        "url": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm62.jpg",
+        "thumbUrl": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm62_thumb.jpg",
+        "name": "dnm62"
 	    }
         ]
 }
