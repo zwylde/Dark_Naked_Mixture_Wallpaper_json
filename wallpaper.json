@@ -385,11 +385,47 @@
         "thumbUrl": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm64_thumb.jpg",
         "name": "dnm64"
         },
-	    {
-        "author": "zwylde",
+		{
+		"author": "zwylde",
         "url": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm65.jpg",
         "thumbUrl": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm65_thumb.jpg",
         "name": "dnm65"
+        },
+		{
+		"author": "zwylde",
+        "url": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm66.jpg",
+        "thumbUrl": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm66_thumb.jpg",
+        "name": "dnm66"
+        },
+		{
+		"author": "zwylde",
+        "url": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm67.jpg",
+        "thumbUrl": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm67_thumb.jpg",
+        "name": "dnm67"
+        },
+				{
+		"author": "zwylde",
+        "url": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm68.jpg",
+        "thumbUrl": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm68_thumb.jpg",
+        "name": "dnm68"
+        },
+		{
+		"author": "zwylde",
+        "url": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm69.jpg",
+        "thumbUrl": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm69_thumb.jpg",
+        "name": "dnm69"
+        },
+		{
+		"author": "zwylde",
+        "url": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm70.jpg",
+        "thumbUrl": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/dnm70_thumb.jpg",
+        "name": "dnm70"
+        },
+	    {
+        "author": "zwylde",
+        "url": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/for_my_brother_chase.jpg",
+        "thumbUrl": "https://github.com/zwylde/Dark_Naked_Mixture_Wallpaper_json/raw/master/for_my_brother_chase_thumb.jpg",
+        "name": "for_my_brother_chase"
 	    }
         ]
 }
